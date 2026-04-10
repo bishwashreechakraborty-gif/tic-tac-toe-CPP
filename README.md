@@ -28,3 +28,7 @@ This project showcases several fundamental Computer Science concepts:
    ```bash
    git clone https://github.com/bishwashreechakraborty-gif/tic-tac-toe-CPP.git
    ```
+
+**Developed by Bishwashree Chakraborty |**
+**B.Tech CSE Student |** 
+**Passionate about programming and problem-solving**
